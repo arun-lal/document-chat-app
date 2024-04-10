@@ -1,2 +1,5 @@
-llama-index
-streamlit
+llama-index==0.10.28
+streamlit==1.33.0
+llama-index-llms-cohere==0.1.6
+llama-index-postprocessor-cohere-rerank==0.1.4
+llama-index-embeddings-cohere==0.1.5
